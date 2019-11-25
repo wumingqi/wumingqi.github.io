@@ -14,14 +14,14 @@ image: "https://picsum.photos/2560/600?image=733"
 # 编写主函数
 ## 主函数的形式
 1、一般使用的形式
-```
+``` c++
 int main()
 {
     return 0;
 }
 ```
 2、带有命令行参数的形式
-```
+``` c++
 int main(int argc, char* argv[])
 {
 
@@ -29,7 +29,7 @@ int main(int argc, char* argv[])
 ```
 ## 完善函数体
 我们需要在函数体内完成我们要做的任务，比如一个简单的hello world程序
-```
+``` c++
 #include <stdio.h>
 
 int main()
