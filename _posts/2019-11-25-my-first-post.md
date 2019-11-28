@@ -3,10 +3,10 @@ title: 如何编写第一个C++程序
 categories:
 - C++
 excerpt: |
-  A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
+  编写C++程序是相对简单的
 feature_text: |
-  ## The Pot Still
-  The modern pot still is a descendant of the alembic, an earlier distillation device
+  ## 多种多样的main函数
+  我们可以使用很多种main函数，根据不同的需要选择不同的声明方式
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
